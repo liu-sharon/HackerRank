@@ -1,2 +1,2 @@
 # HackerRank
-Practice solutions (always in progress!)
+Practice solutions to give other hackers inspiration if needed. Always in progress!
